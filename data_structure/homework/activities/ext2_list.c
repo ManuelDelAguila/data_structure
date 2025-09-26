@@ -42,7 +42,7 @@ int main () {
 
     // Fill the linked list
     node = list_head(&list);
-    for (i = 74; i > 64; i--) {
+    for (i = 122; i > 96; i--) {
 
         if ((data = (int *)malloc(sizeof(int))) == NULL)
             return 1;
